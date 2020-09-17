@@ -1,1 +1,1 @@
-https://www.wikidata.org/wiki/Wikidata:WikiProject_Children%27s_picture_books#More_KB_Children%27s_picture_books_available_on
+https://www.wikidata.org/wiki/Wikidata:WikiProject_Children%27s_picture_books
