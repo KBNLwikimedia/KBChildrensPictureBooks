@@ -1,0 +1,11 @@
+Hoi Olaf, 
+
+Bij deze nog zoals beloofd de Kinderboeken dataset in RDF/XML volgens het Europeana Data Model (zie bijlage). Alle PD objecten zijn gelabeld met de rdf:resource http://creativecommons.org/publicdomain/mark/1.0/ in edm:rights. De links naar de volledige PDF staan in edm:isShownBy en de links naar de eerste afbeelding staat in edm:object. Vanuit die link in edm:object is het getal na de identifier hetgeen wat het nummer in de reeks van afbeeldingen aangeeft, dus als je een script hebt wat daar doorheen loopt moet je alle afbeeldingen voor ieder object kunnen opvragen (en in kleur). 
+
+Als je nog verdere vragen hebt over het datamodel of de mapping van de brondata, laat het me maar weten!
+
+Groeten, 
+Marjolein de Vos
+
+
+14/06/2019
